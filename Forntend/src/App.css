@@ -1,0 +1,30 @@
+.AllCart{
+  display: flex;
+  flex-wrap: wrap;
+ }
+ .cart-item{
+  max-width:30%;
+
+
+ }
+ .card{
+   width: 18rem;
+ }
+ .meinmenu{
+   margin: 0px 60px;
+ }
+ .card-img-top{
+   max-width: 286px;
+   max-height: 186px;
+ }
+ .Congrats-Modal{
+   color: green;
+   font-size: xx-large;
+   font-weight: 600;
+ }
+ .singin , .singup{
+ 
+   margin: 50px auto;
+   width: 400px;
+ 
+ }
